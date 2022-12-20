@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/thodoris-kordatzakis-8648ba255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/thodoris-kordatzakis-8648ba255/">
+  <a href="https://www.discord.com/Parzival#2516/">
     <img src="https://img.shields.io/badge/DIscord-grey?style=for-the-badge&logo=discord&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
