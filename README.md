@@ -11,7 +11,7 @@
   
   <div align="left">
     <h3> :man_technologist: About Me :</h3>
-     <p> Studying at International Hellenic University in Department of Information and Electronic Engineering.
+     <p> Studying in Department of Information and Electronic Engineering of International Hellenic University.
   </div>
   
 ---
